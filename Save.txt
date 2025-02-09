@@ -1,0 +1,5 @@
+score_total:78
+change:8
+cost_click:99
+cost_glove:30
+glove_count:4
