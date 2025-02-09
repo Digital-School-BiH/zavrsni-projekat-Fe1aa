@@ -3,7 +3,7 @@ from tkinter import messagebox
 from math import floor
 from time import strftime
 from PIL import Image,ImageTk
-from MusicPlayer import musicPlayer
+from C:\Users\Home\Desktop\Digital School Projekat\Assets\MusicPlayer import musicPlayer
 from Calculator import calculatorApp
 from ClickerGame import clickerGameApp
 
